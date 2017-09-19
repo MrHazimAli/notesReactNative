@@ -2,9 +2,9 @@
 Information for my references
 
 <br />
-* react-navigation@1.0.0-beta.12
-* react-native@0.42.0
-* react-redux@5.0.5
+react-navigation@1.0.0-beta.12 <br />
+react-native@0.42.0 <br />
+react-redux@5.0.5 <br />
 
 <br /><br />
 
